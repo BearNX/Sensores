@@ -2,9 +2,9 @@
 # Ing. En Sistemas Computacionales
 # SISTEMAS PROGRAMABLES 23a
 
-
 # OBJETIVO:
-
+Realizar y demostrar trabajos demostrados con los KY del profesor de la clase
+que si se pueden complementar con una pico w rasperry para realizar dichos programas
 
 # CÓDIGO
 ```python
@@ -27,12 +27,13 @@
 ##
 ##
 ```
+INTEGRANTES
+Guillestegui Franco Benjamin C19210871
+Jorge Alan Gómez Robles 19211649
+Sandoval Arce Edson Arath 19211734
+Garcia Tamayo Angel Yusset 19210495
 
 # PRUEBAS
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
 
 # CONCLUSIONES
 _esta es conclusión_
