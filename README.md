@@ -28,12 +28,12 @@ que si se pueden complementar con una pico w rasperry para realizar dichos progr
 ##
 ```
 INTEGRANTES
-##Guillestegui Franco Benjamin C19210871
-##Jorge Alan Gómez Robles 19211649
-##Sandoval Arce Edson Arath 19211734
-##Garcia Tamayo Angel Yusset 19210495
-##Anahí del Carmen Hernández Pablo 18210486
-##Campos Guillen Eduardo 20210550
+#Guillestegui Franco Benjamin C19210871
+#Jorge Alan Gómez Robles 19211649
+#Sandoval Arce Edson Arath 19211734
+#Garcia Tamayo Angel Yusset 19210495
+#Anahí del Carmen Hernández Pablo 18210486
+#Campos Guillen Eduardo 20210550
 
 # PRUEBAS
 
